@@ -1,0 +1,23 @@
+#container{
+	max-width: 30%;
+	margin: 0 auto;
+
+}
+
+.square {
+	width: 30%;
+	float: left;
+	background: purple;
+	padding-bottom: 30%;
+	margin: 1.66%;
+	transition-duration: 0.5s;
+}
+
+body{
+		margin: 0;
+		background: #ccd7ea;
+}
+#top-portion{
+	text-align: center;
+
+}
